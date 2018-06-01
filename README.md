@@ -16,8 +16,8 @@ Build and run the project on a linux machine in the /tinyrenderer/tinyrenderer d
 running the following commands.
 
 ```shell
-make
-./crc-8bit
+g++ main.cpp
+./a.out
 ```
 
 The above lines will build the executable from the project source, and run it.
